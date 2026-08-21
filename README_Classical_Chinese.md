@@ -31,4 +31,6 @@ JS 注釋明言「復刻原版時序」，其制也甚用心：
 - 若 `fetch`／`decodeAudioData` 不可用，則自動降為尋常 `<audio>` 加定時器之策，且先播後停以預載，使接入之際無隙
 - 頁面既載即預解音頻，以保按鍵零延遲
 
+### 案影
+
 ![案影](all-file/Air-conditioner_v0.1.png)
