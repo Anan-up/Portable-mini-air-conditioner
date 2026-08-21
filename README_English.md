@@ -1,3 +1,5 @@
+[简中](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README.md)·[文言文](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_Classical_Chinese.md)·[English](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_English.md)
+
 ## Project Overview: Portable Mini AC for WeChat Moments
 
 This is a **pure front-end, single-file fun web page** — a simulated air conditioner in the browser that can be **switched on/off, set to cooling/heating, and temperature-adjusted**, complete with button beeps and fan-wind sound. It belongs to the classic prank/meme genre that went viral in WeChat Moments (sending someone a link saying "It's hot — here's an AC for you"). All resources are embedded inline; it depends on no external server, so just double-click the file to play.
