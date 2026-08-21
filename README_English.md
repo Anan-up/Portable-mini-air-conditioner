@@ -30,3 +30,7 @@ The JS comments explicitly state it "replicates the original timing," and the im
 - On shutdown, the sound isn't cut off abruptly — it **fades out over 0.6 seconds**, followed by a short "beep"
 - If `fetch`/`decodeAudioData` is unavailable, it falls back to plain `<audio>` + timers, and pre-loads by playing then pausing to eliminate the joining gap
 - Audio is pre-decoded on page load, guaranteeing zero-latency button sounds
+
+### project screenshot
+
+![project-screenshot](all-file/Air-conditioner_v0.1.png)
