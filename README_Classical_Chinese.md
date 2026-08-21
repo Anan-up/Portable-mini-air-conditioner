@@ -1,3 +1,5 @@
+[简中](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README.md)·[文言文](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_Classical_Chinese.md)·[English](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_English.md)
+
 ## 項目誌：朋友圈便攜小空調
 
 此為**純前端、單檔之趣味網頁**——於瀏覽器中模擬空調一台，可「開關、製冷製熱、調溫」，並配以按鍵之音、風聲之響，乃昔日微信朋友圈盛行之整蠱玩梗小物（傳鏈於人曰：「天熱矣，贈君空調一台」）。凡諸資源皆內嵌其中，不假外求，雙擊檔案即可把玩。
