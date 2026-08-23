@@ -33,4 +33,4 @@ JS 注释里明确写了「复刻原版时序」，实现得比较用心：
 
 ### 项目截图
 
-![项目截图](all-file/Air-conditioner_v0.1.png)
+![项目截图](all-files/Air-conditioner_v0.1.png)
