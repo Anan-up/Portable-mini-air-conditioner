@@ -1,4 +1,4 @@
-[简中](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README.md)·[文言](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_Classical_Chinese.md)·[English](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_English.md)
+[简中](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README.md) | [文言](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_Classical_Chinese.md) | [English](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_English.md)
 
 ## Project Overview: Portable Mini AC for WeChat Moments
 
