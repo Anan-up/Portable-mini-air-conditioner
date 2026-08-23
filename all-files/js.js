@@ -198,7 +198,8 @@
     };
   })();
 
-  var soundPowerOn = function () { windOn(); };
+  /* 开机：先响真实的"叮"（button.mp3 原版提示音），再接风声启动音 */
+  var soundPowerOn = function () { play(audioButton); windOn(); };
   // 关机：风声缓缓淡出，留一声短"哔"确认
   var soundPowerOff = function () { windOff(); play(audioButton); };
 

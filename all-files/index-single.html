@@ -5,7 +5,7 @@
 <meta name="renderer" content="webkit">
 <meta name="format-detection" content="telephone=no">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
-<title>便携小空调</title>
+<title>朋友圈便携小空调</title>
 <style>
 @font-face {
   font-family: "number";
@@ -334,7 +334,8 @@ h2 { height: 1.8rem; line-height: 2rem; font-weight: normal; font-size: .66rem; 
     };
   })();
 
-  var soundPowerOn = function () { windOn(); };
+  /* 开机：先响真实的"叮"（button.mp3 原版提示音），再接风声启动音 */
+  var soundPowerOn = function () { play(audioButton); windOn(); };
   // 关机：风声缓缓淡出，留一声短"哔"确认
   var soundPowerOff = function () { windOff(); play(audioButton); };
 
