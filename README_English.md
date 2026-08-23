@@ -33,4 +33,4 @@ The JS comments explicitly state it "replicates the original timing," and the im
 
 ### project screenshot
 
-![project-screenshot](all-files/Air-conditioner_v0.1.png)
+![project-screenshot](all-files/Air-conditioner.png)
