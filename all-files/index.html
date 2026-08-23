@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+<title>朋友圈便携小空调</title>
+<link rel="stylesheet" href="./css.css">
+</head>
+<body>
+<div class="ac ac-size">
+  <div class="top"></div>
+  <i class="logo"></i>
+  <div class="temperature">
+    <span class="mode" id="modeText"></span>
+    <span class="number"><b id="tempNumber">20</b><i>°C</i></span>
+  </div>
+  <i class="status" id="statusLed"></i>
+</div>
+
+<div class="wind ac-size" id="wind">
+  <i style="transform:rotate(10deg)"></i><i></i><i style="transform:rotate(-10deg)"></i>
+</div>
+
+<div class="buttons ac-size">
+  <a class="button" style="background:#3f51b5" id="cold" title="制冷"><svg viewBox="0 0 24 24"><path d="M22 11h-4.17l3.24-3.24-1.41-1.42L15 11h-2V9l4.66-4.66-1.42-1.41L13 6.17V2h-2v4.17L7.76 2.93 6.34 4.34 11 9v2H9L4.34 6.34 2.93 7.76 6.17 11H2v2h4.17l-3.24 3.24 1.41 1.42L9 13h2v2l-4.66 4.66 1.42 1.41L11 17.83V22h2v-4.17l3.24 3.24 1.42-1.41L13 15v-2h2l4.66 4.66 1.41-1.42L17.83 13H22z"></path></svg></a>
+  <a class="button switch" style="background:#f50057" id="open" title="开关"><svg viewBox="0 0 24 24"><path d="M13 3h-2v10h2V3zm4.83 2.17l-1.42 1.42C17.99 7.86 19 9.81 19 12c0 3.87-3.13 7-7 7s-7-3.13-7-7c0-2.19 1.01-4.14 2.58-5.42L6.17 5.17C4.23 6.82 3 9.26 3 12c0 4.97 4.03 9 9 9s9-4.03 9-9c0-2.74-1.23-5.18-3.17-6.83z"></path></svg></a>
+  <a class="button" style="background:#ffa500" id="hot" title="制热"><svg viewBox="0 0 24 24"><path d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.79 1.42-1.41zM4 10.5H1v2h3v-2zm9-9.95h-2V3.5h2V.55zm7.45 3.91l-1.41-1.41-1.79 1.79 1.41 1.41 1.79-1.79zm-3.21 13.7l1.79 1.8 1.41-1.41-1.8-1.79-1.4 1.4zM20 10.5v2h3v-2h-3zm-8-5c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm-1 16.95h2V19.5h-2v2.95zm-7.45-3.91l1.41 1.41 1.79-1.8-1.41-1.41-1.79 1.8z"></path></svg></a>
+</div>
+
+<div class="buttons ac-size">
+  <a class="button plus" style="background:#e0e0e0" id="plus" title="升温"><svg viewBox="0 0 24 24"><path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"></path></svg></a>
+</div>
+
+<div class="buttons ac-size">
+  <a class="button minus" style="background:#e0e0e0" id="minus" title="降温"><svg viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path></svg></a>
+</div>
+
+<script src="./js.js"></script>
+</body>
+</html>
