@@ -1,4 +1,4 @@
-[English](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README.md) | [简中](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_Simplified_Chinese.md) | [文言](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_Classical_Chinese.md)
+[English](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README.md) | [简体中文](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_Simplified_Chinese.md) | [繁体中文](https://github.com/Anan-up/Portable-mini-air-conditioner/blob/main/README_Classical_Chinese.md)
 
 ## 项目介绍：朋友圈便携小空调
 
