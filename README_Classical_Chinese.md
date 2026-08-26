@@ -34,3 +34,7 @@ JS 注釋明言「復刻原版時序」，其制也甚用心：
 ### 案影
 
 ![案影](all-files/Air-conditioner.png)
+
+## 版權
+
+[MIT](LICENSE)
