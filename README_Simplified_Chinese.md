@@ -34,3 +34,7 @@ JS 注释里明确写了「复刻原版时序」，实现得比较用心：
 ### 项目截图
 
 ![项目截图](all-files/Air-conditioner.png)
+
+## 许可证
+
+[MIT](LICENSE)
