@@ -34,3 +34,7 @@ The JS comments explicitly state it "replicates the original timing," and the im
 ### project screenshot
 
 ![project-screenshot](all-files/Air-conditioner.png)
+
+## License
+
+[MIT](LICENSE)
